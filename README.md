@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Computer Science Background:** Currently studying with a strong focus on Software Engineering, Cybersecurity, and Machine Learning.
+- 🎓 **Computer Science Background:** Currently studying with a strong focus on Software Engineering.
 - 🔭 **Current Leadership:** Founder and Lead of **Majastic**. I take full ownership and responsibility for overseeing two main divisions (Goweb and Game Dev), driving both strategic direction and technical delivery.
 - 💻 **Featured Project (E-PKL):** Currently developing a comprehensive internship management platform in collaboration with Teaching Factory (TEFA) SMK Negeri 1 Majalengka. 
   - *Key Features:* GPS-based attendance tracking, daily journal entries, and multi-level supervisor approval workflows.
