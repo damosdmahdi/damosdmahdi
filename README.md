@@ -31,14 +31,6 @@
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
 </p>
 
-**System Architecture, Infrastructure & Security**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logo=ssh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=springsecurity&logoColor=white" />
-</p>
-
 **Workflow & Tools**
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
